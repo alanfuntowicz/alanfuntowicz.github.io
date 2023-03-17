@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Download CV here](https://alanfuntowicz.github.io/files/cv_Alan)
+
+
+<!--Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
