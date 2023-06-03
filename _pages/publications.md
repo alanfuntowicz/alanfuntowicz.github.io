@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Working Papers
+## *Working Papers*
 
 * Funtowicz, A., Komatsu, B., Menezes-Filho, N. (2022). "The Impact of a Primary Health Care Strategy on Educational Outcomes in Brazil: A Cohort Analysis". Available [here](https://alanfuntowicz.github.io/files/paper_esf.pdf).
 
