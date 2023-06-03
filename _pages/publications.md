@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
-permalink: 
+title: "Research"
+permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Working Papers
 
-{% include base_path %}
+* Funtowicz, A., Komatsu, B., Menezes-Filho, N. (2022). "The Impact of a Primary Health Care Strategy on Educational Outcomes in Brazil: A Cohort Analysis". Available [here](https://alanfuntowicz.github.io/files/paper_esfmatricula_ingles.pdf").
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Funtowicz, A., Komatsu, B., Menezes-Filho, N. (2021). "The Impacts of a Conditional Cash Transfer Program on Children’s Deaths and Hospitalizations in Brazil: A Cohort Analysis". Available [here](https://alanfuntowicz.github.io/files/paper_pbfobitos_ingles.pdf").
+
+
+
+
