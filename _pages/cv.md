@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Open CV](https://alanfuntowicz.github.io/files/CV_Alan_updated.pdf)
+*Soon to be updated*
+
+% [Open CV](https://alanfuntowicz.github.io/files/CV_Alan_updated.pdf)

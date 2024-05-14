@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an incoming PhD student in Economics at  [University College London](https://www.ucl.ac.uk/economics/). My research interests lie in the field of Labour, Development, and Political Economics. Additionally, I am interested in utilizing unstructured data to address economic questions.
+Welcome! I am an incoming PhD student in Economics at [University College London](https://www.ucl.ac.uk/economics/). I am interested in development, labour, and political economics. Additionally, I am interested in utilising unstructured data to address research questions.
