@@ -7,17 +7,14 @@ author_profile: true
 
 ### Teaching Assistant
 
-#### University of Sao Paulo
+### University of Sao Paulo
 
-- **Graduate Mathematical Economics: Real Analysis**  
+- **Mathematical Economics: Real Analysis (Grad)** [Syllabus](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=EAE5841)
   *Instructor*: Wilfredo Maldonado  
-  [Syllabus](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=EAE5841)
 
-- **Graduate Mathematical Economics: Optimization Theory**  
+- **Mathematical Economics: Optimization Theory (Grad)** [Syllabus](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=EAE5841)
   *Instructor*: Antonio Morales  
-  [Syllabus](https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&sgldis=EAE5841)
 
-- **Graduate Microeconomics III**  
+- **Microeconomics III (Grad)** [Syllabus](https://uspdigital.usp.br/janus/componente/catalogoDisciplinasInicial.jsf?action=3&sgldis=EAE6027)
   *Instructor*: Gabriel Madeira  
-  [Syllabus](https://uspdigital.usp.br/janus/componente/catalogoDisciplinasInicial.jsf?action=3&sgldis=EAE6027)
 
