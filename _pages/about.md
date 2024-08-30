@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an incoming PhD student in Economics at [University College London](https://www.ucl.ac.uk/economics/).
+Welcome! I am a PhD student in Economics at [University College London](https://www.ucl.ac.uk/economics/). You can find my CV [here](https://alanfuntowicz.github.io/files/CV_Funtowicz.pdf). Feel free to reach out at alanfunt12 [at] gmail [dot] com.
